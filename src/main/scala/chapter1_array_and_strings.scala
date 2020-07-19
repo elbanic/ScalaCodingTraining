@@ -3,9 +3,10 @@
 import scala.collection.mutable.HashMap
 import scala.collection.mutable.ArrayBuffer
 
-class chapter1 {
+class chapter1_array_and_strings {
 
   def run(): Unit = {
+    println("===== Chapter 1. =====")
     println("===== Practice 1. =====")
     println(isUnique("abcde"))
     println(isUnique("aabbcccde"))
